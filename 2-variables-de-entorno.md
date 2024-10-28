@@ -16,7 +16,7 @@ docker run -d --name mi_nginx -e username=atik -e role=admin nginx:alpine
 
 # CAPTURA CON LA COMPROBACIÓN DE LA CREACIÓN DE LAS VARIABLES DE ENTORNO DEL CONTENEDOR ANTERIOR
 
-![Imagen](img/varaiblesEntorno.png)
+![Imagen](img/variablesEntorno.png)
 
 ### Crear un contenedor con mysql:8 , mapear todos los puertos
 ````
